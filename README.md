@@ -35,8 +35,7 @@ If you encounter any issues or want to report a bug, please open an issue on our
 ## Contact Us 📧🤗
 Feel free to reach out if you have any questions, suggestions, or just want to chat about machine learning and healthcare. We'd love to hear from you! 💌
 
-Email: omarnahdi2021@gmail.com
-
+Email: omarnahdi2021@gmail.com \
 LinkedIn: https://www.linkedin.com/in/omarnahdi/
 
 
