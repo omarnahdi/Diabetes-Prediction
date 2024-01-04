@@ -16,7 +16,7 @@ To run the project locally, follow these simple steps:
    ```
 2. Run the prediction script 🚀
    ```
-   python Diabetes_Predict.py
+   python Diabetes_Predict.ipynb
    ```
 ## Data Sources 📊
 We've used diverse and representative datasets to ensure the robustness of our model. Check out the data directory for more details on our data sources. 📈
